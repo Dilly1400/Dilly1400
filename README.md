@@ -2,8 +2,7 @@
 - 👀 I’m interested in informatics
 - 🌱 I’m currently learning Linux operating system,how to set an e-commerce
 - 💞️ I’m looking to collaborate 
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
+- 📫 How to reach me ..
 - ⚡ Fun fact: ...
 
 <!---
